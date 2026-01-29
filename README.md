@@ -12,8 +12,6 @@ Criar uma aplicação simples que permita:
 - Cálculo do **IMC (Índice de Massa Corporal)**
 - Exibição da classificação do IMC de forma clara e visual
 
-O foco principal **não é backend**, e sim aprender **React Native na prática**.
-
 ---
 
 
