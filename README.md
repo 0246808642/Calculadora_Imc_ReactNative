@@ -16,7 +16,4 @@ O foco principal **não é backend**, e sim aprender **React Native na prática*
 
 ---
 
-## 🧠 O que é IMC?
-
-O IMC (Índice de Massa Corporal) é calculado pela fórmula:
 
